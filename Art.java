@@ -8,3 +8,8 @@ sout("test");
   {
     sout("test2");
 }
+void mul()
+{
+sout"test3"
+}
+}
