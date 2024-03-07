@@ -8,3 +8,8 @@ sout("test");
   {
     sout("test2");
 }
+void div()
+  {
+    sout("test4");
+  }
+  
